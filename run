@@ -1,2 +1,2 @@
 #!/bin/sh
-sudo haraka -c ./
+sudo haraka -c smtp
